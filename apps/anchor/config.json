@@ -1,0 +1,24 @@
+{
+  "name": "Anchor",
+  "id": "anchor",
+  "available": true,
+  "short_desc": "Gestor de notas al estilo Google Keep",
+  "author": "ZhFahim",
+  "port": 3333,
+  "categories": [
+    "utilities"
+  ],
+  "description": "Gestor de notas al estilo Google Keep",
+  "tipi_version": 2,
+  "version": "v0.8.1",
+  "source": "https://github.com/ZhFahim/anchor",
+  "exposable": true,
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ],
+  "created_at": 1745082405284,
+  "updated_at": 1745674974072,
+  "dynamic_config": true,
+  "form_fields": []
+}
